@@ -1,4 +1,4 @@
-# Havel Hamiki Demonstration
+# Havel Hakimi Demonstration
 
 This application was made for the Summer of Math Exposition #1. It aims to teach a bit about Graph Theory, and how to visually understand a particular theorem.
 
